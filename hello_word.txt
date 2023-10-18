@@ -1,1 +1,1 @@
-Hello Aldin This is cc master learning Git
+ Hello Aldin This is cc master learning Git. Trying to stage and push this version to github.
